@@ -1,7 +1,7 @@
 import java.io.* ;
 import java.util.Scanner ;
 
-class CoffeeAverage {
+class CoffeeAverage2 {
 
 	public static void main ( String[] args ) {
 		Scanner scan = new Scanner( System.in );
